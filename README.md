@@ -1,2 +1,3 @@
-20243165	Leeminhyung
+20243165 Leeminh
+20243165Leeminhyung
 Kookmin Univ. SW
